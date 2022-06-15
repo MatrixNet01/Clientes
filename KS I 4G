@@ -1,5 +1,5 @@
   {
-"Version": "18.0.0",
+"Version": "19.0.0",
   "ReleaseNotes": "Nova Atualização Disponível",
   "UrlUpdate": "https://raw.githubusercontent.com/MatrixNet01/Clientes/main/KS%20I%204G",
   "Sms": " https://paste.anasor.com/paste.php?raw&id=11222",
@@ -154,6 +154,7 @@
     {
 	  
         "Name": "Tim 3",
+	"FLAG": "tim",
      "Payload": "GET ws://ecommercebrasil.alura.com.br HTTP/1.1\nHost: [app_host]\nUpgrade: ws\n\n",
       "SNI": "ecommercebrasil.alura.com.br",
       "TlsIP": "104.21.84.78",
