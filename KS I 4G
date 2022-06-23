@@ -56,6 +56,17 @@
 	      "SSLPort": "443",
 	      "USER": "",
 	      "PASS": ""    }
+	      {
+	        "Name": "KS PROVISORIO",
+	      "TYPE": "premium",
+	      "FLAG": "br.png",
+	      "ServerIP": "tt.kspeed.xyz",
+	      "CheckUser": "http://khgjhg/checkUser",
+	      "ServerPort": "22",
+	      "SSLPort": "443",
+	      "USER": "",
+	      "PASS": ""    
+		  },
 	
 
 	   ],
