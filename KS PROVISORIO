@@ -1,7 +1,7 @@
 {
-	"Version": "20.0.0",
+	"Version": "30.0.0",
 	  "ReleaseNotes": "Nova Atualização Disponível",
-	  "UrlUpdate": "https://raw.githubusercontent.com/MatrixNet01/Clientes/main/KS%20I%204G",
+	  "UrlUpdate": "https://raw.githubusercontent.com/MatrixNet01/Clientes/main/KS%20PROVISORIO",
 	  "Sms": " https://paste.anasor.com/paste.php?raw&id=11222",
 	  "Bem Vindo (A)": "",
 	  "": "https://wa.me/5511956551771",
@@ -14,48 +14,28 @@
 	  ],
 	  "Servers": [
 	    {
-	        "Name": "KS SPEED BR 1",
+	        "Name": "Provisório 1",
 	      "TYPE": "premium",
 	      "FLAG": "br.png",
-	      "ServerIP": "br.kspeed.xyz",
-	      "CheckUser": "http://144.22.139.55:8080/checkUser",
+	      "ServerIP": "tt.kspeed.xyz",
+	      "CheckUser": "http://144.25.139.55:880/checkUser",
 	      "ServerPort": "22",
 	      "SSLPort": "443",
 	      "USER": "",
 	      "PASS": ""   
 	      },
 		  {
-	        "Name": "KS SPEED BR 2",
+	        "Name": "Provisório 2",
 	      "TYPE": "premium",
 	      "FLAG": "br.png",
-	      "ServerIP": "ii.kspeed.xyz",
-	      "CheckUser": "http://152.67.45.252:8080/checkUser",
+	      "ServerIP": "pp.kspeed.xyz",
+	      "CheckUser": "http://152.67.42.252:880/checkUser",
 	      "ServerPort": "22",
 	      "SSLPort": "443",
 	      "USER": "",
 	      "PASS": ""   
-	      },
-	      {
-	        "Name": "KS SPEED BR 3",
-	      "TYPE": "premium",
-	      "FLAG": "br.png",
-	      "ServerIP": "aa.kspeed.xyz",
-	      "CheckUser": "http://144.22.167.176:8080/checkUser",
-	      "ServerPort": "22",
-	      "SSLPort": "443",
-	      "USER": "",
-	      "PASS": ""    
-		  },
-		  {
-		  "Name": "KS SPEED BR 4",
-	      "TYPE": "premium",
-	      "FLAG": "br.png",
-	      "ServerIP": "ee.kspeed.xyz",
-	      "CheckUser": "http://144.22.143.249:8080/checkUser",
-	      "ServerPort": "22",
-	      "SSLPort": "443",
-	      "USER": "",
-	      "PASS": ""    }
+	      }
+	     
 	
 
 	   ],
