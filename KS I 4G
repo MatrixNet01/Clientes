@@ -1,5 +1,5 @@
 {
-	"Version": "26.0.0",
+	"Version": "27.0.0",
 	  "ReleaseNotes": "Nova Atualização Disponível",
 	  "UrlUpdate": "https://raw.githubusercontent.com/MatrixNet01/Clientes/main/KS%20I%204G",
 	  "Sms": " https://paste.anasor.com/paste.php?raw&id=11222",
@@ -55,18 +55,7 @@
 	      "ServerPort": "22",
 	      "SSLPort": "443",
 	      "USER": "",
-	      "PASS": ""    },
-	      {
-	        "Name": "KS PROVISORIO",
-	      "TYPE": "premium",
-	      "FLAG": "br.png",
-	      "ServerIP": "tt.kspeed.xyz",
-	      "CheckUser": "http://khgjhg/checkUser",
-	      "ServerPort": "22",
-	      "SSLPort": "443",
-	      "USER": "",
-	      "PASS": ""    
-		  }
+	      "PASS": ""    }
 	
 
 	   ],
