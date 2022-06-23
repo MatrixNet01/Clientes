@@ -1,5 +1,5 @@
 {
-	"Version": "27.0.0",
+	"Version": "30.0.0",
 	  "ReleaseNotes": "Nova Atualização Disponível",
 	  "UrlUpdate": "https://raw.githubusercontent.com/MatrixNet01/Clientes/main/KS%20I%204G",
 	  "Sms": " https://paste.anasor.com/paste.php?raw&id=11222",
@@ -55,16 +55,39 @@
 	      "ServerPort": "22",
 	      "SSLPort": "443",
 	      "USER": "",
-	      "PASS": ""    }
+	      "PASS": ""    },
 	
+	  {
+		  "Name": "KS SPEED BR 5",
+	      "TYPE": "premium",
+	      "FLAG": "br.png",
+	      "ServerIP": "tt.kspeed.xyz",
+	      "CheckUser": "http://129.159.63.91:8080/checkUser",
+	      "ServerPort": "22",
+	      "SSLPort": "443",
+	      "USER": "",
+	      "PASS": ""    },
+	      
+	      	  {
+		  "Name": "KS SPEED BR 6",
+	      "TYPE": "premium",
+	      "FLAG": "br.png",
+	      "ServerIP": "pp.kspeed.xyz",
+	      "CheckUser": "http://20.226.38.201:8080/checkUser",
+	      "ServerPort": "22",
+	      "SSLPort": "443",
+	      "USER": "",
+	      "PASS": ""    }
+
 
 	   ],
 	  "Networks": [
-	    { "Name": "Vivo 1",
+	    {
+	            "Name": "Vivo 1",
 	      "FLAG": "vivo",
-	      "Payload": "GET wss://www.alura.com.br HTTP/1.1[crlf]Host:  [app_host][crlf]Connection: Keep-alive[crlf]Upgrade: ws[crlf][crlf]",
-	      "SNI": "www.alura.com.br",
-	      "TlsIP": "104.24.25.34",
+	      "Payload": "GET wss://vigia.vivo.com.br/ HTTP/1.1[crlf]Host: [app_host][crlf]Connection: Keep-alive[crlf]Upgrade: ws[crlf][crlf]",
+	      "SNI": "vigia.vivo.com.br",
+	      "TlsIP": "104.18.6.80",
 	      "ProxyIP": "",
 	      "ProxyPort": "",
 	      "Info": "Tlsws"
@@ -75,7 +98,7 @@
 	      "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: ws[crlf][crlf]",
 	      "SNI": "",
 	      "TlsIP": "",
-	      "ProxyIP": "104.24.24.34",
+	      "ProxyIP": "104.18.7.80",
 	      "ProxyPort": "80",
 	      "Info": "Proxy"
 	      
@@ -84,12 +107,13 @@
 		  
 	        "Name": "Vivo 3",
 	      "FLAG": "vivo",
-	      "Payload": "GET wss://www.alura.com.br HTTP/1.1[crlf]Host:  [app_host][crlf]Connection: Keep-alive[crlf]Upgrade: ws[crlf][crlf]",
-	      "SNI": "www.alura.com.br",
-	      "TlsIP": "104.24.25.34",
+	      "Payload": "GET wss://gedoc.vivo.com.br HTTP/1.1[crlf]Host:  [app_host][crlf]Connection: Keep-alive[crlf]Upgrade: ws[crlf][crlf]",
+	      "SNI": "gedoc.vivo.com.br",
+	      "TlsIP": "104.18.6.80",
 	      "ProxyIP": "",
 	      "ProxyPort": "",
 	      "Info": "Tlsws"
+
 	      
 	        },
 	    {
