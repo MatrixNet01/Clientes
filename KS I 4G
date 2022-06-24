@@ -1,5 +1,5 @@
 {
-	"Version": "30.0.0",
+	"Version": "31.0.0",
 	  "ReleaseNotes": "Nova Atualização Disponível",
 	  "UrlUpdate": "https://raw.githubusercontent.com/MatrixNet01/Clientes/main/KS%20I%204G",
 	  "Sms": " https://paste.anasor.com/paste.php?raw&id=11222",
@@ -83,7 +83,7 @@
 	   ],
 	  "Networks": [
 	    {
-	            "Name": "Vivo 1",
+	        "Name": "Vivo 1",
 	      "FLAG": "vivo",
 	      "Payload": "GET wss://vigia.vivo.com.br/ HTTP/1.1[crlf]Host: [app_host][crlf]Connection: Keep-alive[crlf]Upgrade: ws[crlf][crlf]",
 	      "SNI": "vigia.vivo.com.br",
@@ -113,19 +113,18 @@
 	      "ProxyIP": "",
 	      "ProxyPort": "",
 	      "Info": "Tlsws"
-
 	      
 	        },
 	    {
 		  
 	        "Name": "Vivo 4",
 	      "FLAG": "vivo",
-	      "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: ws[crlf][crlf]",
-	      "SNI": "",
-	      "TlsIP": "",
-	      "ProxyIP": "172.64.130.2",
-	      "ProxyPort": "80",
-	      "Info": "Proxy"
+	      "Payload": "GET wss://vivo360.vivo.com.br HTTP/1.1[crlf]Host:  [app_host][crlf]Connection: Keep-alive[crlf]Upgrade: ws[crlf][crlf]",
+	      "SNI": "vivo360.vivo.com.br",
+	      "TlsIP": "vivo360.vivo.com.br",
+	      "ProxyIP": "",
+	      "ProxyPort": "",
+	      "Info": "Tlsws"
 	      
 	        },
 	    {
