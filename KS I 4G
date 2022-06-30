@@ -1,5 +1,5 @@
 {
-	"Version": "43.0.0",
+	"Version": "45.0.0",
 	  "ReleaseNotes": "Nova Atualização Disponível",
 	  "UrlUpdate": "https://raw.githubusercontent.com/MatrixNet01/Clientes/main/KS%20I%204G",
 	  "Sms": " https://paste.anasor.com/paste.php?raw&id=11222",
@@ -79,7 +79,7 @@
 	      "USER": "",
 	      "PASS": ""    },
 	      
-	        "Name": "KS SPEED ZERO",
+	      {  "Name": "KS SPEED ZERO",
 	      "TYPE": "premium",
 	      "FLAG": "br.png",
 	      "ServerIP": "zz.kspeed.xyz",
