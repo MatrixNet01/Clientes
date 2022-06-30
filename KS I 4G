@@ -1,5 +1,5 @@
 {
-	"Version": "37.0.0",
+	"Version": "40.0.0",
 	  "ReleaseNotes": "Nova Atualização Disponível",
 	  "UrlUpdate": "https://raw.githubusercontent.com/MatrixNet01/Clientes/main/KS%20I%204G",
 	  "Sms": " https://paste.anasor.com/paste.php?raw&id=11222",
@@ -77,20 +77,30 @@
 	      "ServerPort": "22",
 	      "SSLPort": "443",
 	      "USER": "",
+	      "PASS": ""    },
+	      
+	        "Name": "KS SPEED ZERO",
+	      "TYPE": "premium",
+	      "FLAG": "br.png",
+	      "ServerIP": "zz.kspeed.xyz",
+	      "CheckUser": "http://20.226.26.131:8080/checkUser",
+	      "ServerPort": "22",
+	      "SSLPort": "443",
+	      "USER": "",
 	      "PASS": ""    }
 
 
 	   ],
 	 "Networks": [
     {
-        "Name": "Vivo 1",
+            "Name": "Vivo 1",
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: [app_host] [crlf]Upgrade: ws[crlf][crlf]",
-      "SNI": "",
-      "TlsIP": "",
-      "ProxyIP": "104.24.25.34",
-      "ProxyPort": "80",
-      "Info": "Proxy"
+      "Payload": "GET wss://support.pokemon.com HTTP/1.1[crlf]Host:  [app_host][crlf]Connection: Keep-alive[crlf]Upgrade: ws[crlf][crlf]",
+      "SNI": "support.pokemon.com",
+      "TlsIP": "104.24.10.16",
+      "ProxyIP": "",
+      "ProxyPort": "",
+      "Info": "Tlsws"
     },
     {
         "Name": "Vivo 2",
