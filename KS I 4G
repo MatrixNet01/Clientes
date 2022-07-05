@@ -1,5 +1,5 @@
 {
-	"Version": "52.0.0",
+	"Version": "53.0.0",
 	  "ReleaseNotes": "Nova Atualização Disponível",
 	  "UrlUpdate": "https://raw.githubusercontent.com/MatrixNet01/Clientes/main/KS%20I%204G",
 	  "Sms": " https://paste.anasor.com/paste.php?raw&id=11222",
@@ -156,7 +156,7 @@
    "TlsIP": "172.67.165.43",
    "ProxyIP": "",
    "ProxyPort": "443",
-   "Info": "Tlsws
+   "Info": "Tlsws"
     },
     {  
       
